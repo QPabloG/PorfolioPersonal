@@ -1,0 +1,13 @@
+h1 {
+    color: #ff5733; /* Bright orange color */
+    font-size: 2.5rem; /* Larger font size */
+    font-weight: bold; /* Make it bold */
+    text-align: center; /* Center align the text */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a subtle shadow */
+}
+#Parrafo1 {
+    color: #ffad33; /* Bright blue color */
+    font-size: 1.2rem; /* Slightly larger font size */
+    font-style: italic; /* Italicize the text */
+    margin: 10px 0; /* Add some vertical margin */
+}
